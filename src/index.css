@@ -27,3 +27,12 @@ color: white !important;
 .navbar-nav{
   margin-left: auto;
 }
+
+h1{
+  font-size: 18px !important;
+  text-align: left !important;
+}
+
+.img-fluid{
+  height: 200 !important;
+}

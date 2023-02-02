@@ -14,9 +14,9 @@ const products=[{
   "reviews" : [],
     "price": 700,
     "countInStock": 0,
-    "name": "Peace Print Script",
+    "name": "'Mystic Owl Block' Hand Carved Spice Box With Spoon In Sheesham Wood (7 Compartments, 80 ML)",
     "category": "wood",
-    "image":"https://living-traditions.com/wp-content/uploads/2018/07/Peace-Print-550.png",
+    "image":"https://cdn.shopify.com/s/files/1/0523/8852/8327/products/EL-005-886_A_1024x1024@2x.jpg?v=1608617361",
     "description": "Quad camera setup - 64MP (F1.8) main camera + 12MP (F2.2) ultra wide camera + 5MP (F2.4) depth camera + 5MP (F2.4) macro camera and 32MP (F2.2) front camera 16.95 cm (6.7-inch) sAMOLED Plus - Infinity-O display, FHD+ capacitive touchscreen with 1080 x 2400 pixels resolution, Contrast Ratio: 78960:1 Memory, Storage & SIM: 6GB RAM, 128GB internal memory expandable up to 512GB | Dedicated Memory slot Android v10.0 operating system with 2.2GHz+1.8GHz Qualcomm | SD730G octa core processor",
     
   },{
